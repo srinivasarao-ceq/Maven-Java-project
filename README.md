@@ -1,2 +1,2 @@
 # Maven-Java-project
-This is Jenkins JOb
+This is Jenkins Job
